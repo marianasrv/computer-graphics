@@ -9,7 +9,7 @@ There are two light sources, one directional and one pointlight.
 
 </a>
 
-1. Open the <code>index.html</code> file. To see the texxture locally, you have to change some browser configurations.
+1. Open the <code>index.html</code> file. To see the texture locally, you have to change some browser configurations.
 
 On Safari:
 
