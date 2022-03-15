@@ -7,7 +7,7 @@ class Pause extends THREE.Object3D {
 
     var texloader = new THREE.TextureLoader();
 
-		var tex = texloader.load("http://web.tecnico.ulisboa.pt/ist187660/IPM/images/Pause.jpg");
+		var tex = texloader.load("images/Pause.jpeg");
 
     this.material = new THREE.MeshBasicMaterial({ map: tex });
 		this.geometry = new THREE.PlaneGeometry(8, 8, 20);

@@ -7,7 +7,7 @@ class Board extends THREE.Object3D{
     super();
 
     var textloader = new THREE.TextureLoader();
-		this.texture = textloader.load("http://web.tecnico.ulisboa.pt/ist187660/IPM/images/tabuleiroDeXadrez.jpg");
+		this.texture = textloader.load("textures/tabuleiroDeXadrez.jpg");
 
 		this.geometry = new THREE.CubeGeometry(40, 1, 40);
 		var pM = new THREE.MeshPhongMaterial({ specular: 0, shininess: 0, map: this.texture , wireframe: false});
