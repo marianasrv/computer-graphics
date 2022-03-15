@@ -9,20 +9,7 @@ There are two light sources, one directional and one pointlight.
 
 </a>
 
-1. Open the <code>index.html</code> file. To see the texture locally, you have to change some browser configurations.
-
-On Safari:
-
-- Enable the develop menu using the preferences panel, under Advanced → "Show develop menu in menu bar".
-- Then from the Safari "Develop" menu, select "Disable local file restrictions".
-- If you are editing & debugging using Safari, it is advisable to also select the "Disable caches" option in the same menu.
-
-On Chrome, start it with:
-```
-...\AppData\Local\Google\Chrome\Application\chrome.exe -allow-file-access-from-files
-```
-
-2. In this project you can:
+In this project you can:
 
 - Start/stop the ball movement using the <code>B</code> key.
 - Pause the visualization using the <code>S</code> key. Then, you can continue pressing the same key, or restart using the <code>R</code> key.

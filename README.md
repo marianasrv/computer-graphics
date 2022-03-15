@@ -20,7 +20,11 @@ We developed 4 small projects using three.js, with different objectives. Each on
 </a>
 
 1. Download the projects [here!](https://github.com/marianasrv/computer-graphics/archive/main.zip) and unzip at a desired directory. 
-2. See the ReadMe of each project and follow the instructions!
+2. Then, open a terminal in the project directory and run (make sure you have python 3 installed):
+```
+python3 -m http.server 
+```
+3. Then, open your browser and go to <code>localhost:8000</code>. Click on each Project to try them out. See the ReadMe of each project and follow the instructions!
 
 - [Project 1](https://github.com/marianasrv/computer-graphics/tree/main/Project1)
 - [Project 2](https://github.com/marianasrv/computer-graphics/tree/main/Project2)

@@ -9,8 +9,8 @@ To do this, we created a plane, using polygon meshes. For the spotlight light so
 
 </a>
 
-1. Open the <code>index.html</code> file.
-2. In this project you can:
+
+In this project you can:
 
 - Move the plane, using the arrows (⬆️ up and ⬇️ down for the horizontal axis, and ⬅️ left and ➡️ right for the vertical axis).
 - Turn on/off the spotlights individually, using the <code>1</code>, <code>2</code>, <code>3</code> and <code>4</code> keys.
